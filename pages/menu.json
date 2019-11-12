@@ -1,0 +1,147 @@
+{
+    "flag": true,
+    "code": 20000,
+    "message": "查询成功",
+    "data": [
+        {
+            "id": "index",
+            "title": "主页",
+            "icon": "fa fa-dashboard fa-fw",
+            "href": "index.html",
+            "children": []
+        },
+        {
+            "id": "charts",
+            "title": "Charts",
+            "icon": "fa fa-bar-chart-o fa-fw",
+            "href": "",
+            "children": [
+                {
+                    "id": "flot",
+                    "title": "Flot Charts",
+                    "icon": "",
+                    "href": "flot.html",
+                    "children": []
+                },
+                {
+                    "id": "morris",
+                    "title": "Morris.js Charts",
+                    "icon": "",
+                    "href": "morris.html",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "tables",
+            "title": "Tables",
+            "icon": "fa fa-table fa-fw",
+            "href": "tables.html",
+            "children": []
+        },
+        {
+            "id": "uiElements",
+            "title": "UI Elements",
+            "icon": "fa fa-wrench fa-fw",
+            "href": "",
+            "children": [
+                {
+                    "id": "panels-wells",
+                    "title": "Panels and Wells",
+                    "icon": "",
+                    "href": "panels-wells.html",
+                    "children": []
+                },
+                {
+                    "id": "buttons",
+                    "title": "Buttons",
+                    "icon": "",
+                    "href": "buttons.html",
+                    "children": []
+                },
+                {
+                    "id": "notifications",
+                    "title": "Notifications",
+                    "icon": "",
+                    "href": "notifications.html",
+                    "children": []
+                },
+                {
+                    "id": "typography",
+                    "title": "Typography",
+                    "icon": "",
+                    "href": "typography.html",
+                    "children": []
+                },
+                {
+                    "id": "icons",
+                    "title": "Icons",
+                    "icon": "",
+                    "href": "icons.html",
+                    "children": []
+                },
+                {
+                    "id": "grid",
+                    "title": "Grid",
+                    "icon": "",
+                    "href": "grid.html",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Multi-Level Dropdown",
+            "icon": "fa fa-sitemap fa-fw",
+            "href": "",
+            "children": [
+                {
+                    "title": "Second Level Item",
+                    "icon": null,
+                    "href": "",
+                    "children": []
+                },
+                {
+                    "title": "Second Level Item",
+                    "icon": null,
+                    "href": "",
+                    "children": []
+                },
+                {
+                    "title": "Third Level",
+                    "icon": null,
+                    "href": "",
+                    "children": [
+                        {
+                            "title": "fourth Level",
+                            "icon": null,
+                            "href": "",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sample",
+            "title": "Sample Pages",
+            "icon": "fa fa-files-o fa-fw",
+            "href": "",
+            "children": [
+                {
+                    "id": "blank",
+                    "title": "Sample Pages",
+                    "icon": "",
+                    "href": "blank.html",
+                    "children": []
+                },
+                {
+                    "id": "login",
+                    "title": "Login Page",
+                    "icon": "",
+                    "href": "login.html",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

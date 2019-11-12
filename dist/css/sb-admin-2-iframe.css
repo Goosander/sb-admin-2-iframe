@@ -1,0 +1,13 @@
+body,
+body.full-height-layout #wrapper,
+html {
+    height: 100%;
+}
+
+body.full-height-layout #page-wrapper {
+    height: calc(100% - 60px)
+}
+
+#page-wrapper {
+    padding: 0 0px
+}
